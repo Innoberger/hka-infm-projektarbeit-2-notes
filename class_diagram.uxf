@@ -1,0 +1,8 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>560</x><y>240</y><w>230</w><h>70</h></coordinates><panel_attributes>&lt;&lt;CommandInterpreter&gt;&gt;
+--
++ Find(s: String): State
++ Union(b1: State, b2: State): State
++ Make-State(s: String, b: String): State</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>230</x><y>140</y><w>210</w><h>60</h></coordinates><panel_attributes>&lt;&lt;State&gt;&gt;
+--
++ name: String
++ cities: List&lt;String&gt;</panel_attributes><additional_attributes></additional_attributes></element></diagram>
