@@ -43,7 +43,7 @@ Other repositories associated within this project:
 
 * [Full documentation ("Ausarbeitung")](https://github.com/Innoberger/hka-infm-projektarbeit-2-doc)
 * [Presentation ("Vortrag")](https://github.com/Innoberger/hka-infm-projektarbeit-2-beamer)
-* [The actual application ("Anwendung")](https://github.com/Innoberger/hka-infm-projektarbeit-2-work)
+* [The actual application ("Anwendung")](https://github.com/Innoberger/hka-infm-projektarbeit-2-app)
 
 
 ## License
